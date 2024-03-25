@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1933571454, guid: 0392ffa6353ffc1214a0df459d9bb3da, type: 3}
+  m_Name: BoxThumper
+  m_EditorClassIdentifier: 
+  label: Box Thumper
+  id: antlershed.boxthumper
+  icon: {fileID: 2800000, guid: d24c32ea4115d1d4dba44ec47742f4c6, type: 3}
+  muteEffects: 1
+  muteVoice: 1
+  bodyMeshAction:
+    actionType: 2
+    replacementObject: {fileID: 919132149155446097, guid: 7783b9f1a848d144faa0d53019b42297,
+      type: 3}
+    armatureMap: {fileID: 11400000, guid: 3222064fb2fc80047bf3b18be6a4077d, type: 2}
+  bodyMaterialAction:
+    actionType: 0
+    replacementMaterial: {fileID: 0}
+  longRoarsAudioListAction:
+    actionType: 1
+    replacementClips: []
+  hitsAudioAction:
+    actionType: 1
+    replacementClips: []
+  wallHitsAudioListAction:
+    actionType: 1
+    replacementClips: []
+  shortRoarAudioAction:
+    actionType: 1
+    replacementClip: {fileID: 0}
+  eatPlayerAudioAction:
+    actionType: 1
+    replacementClip: {fileID: 0}
+  biteAudioAction:
+    actionType: 1
+    replacementClip: {fileID: 0}
+  attachments: []

@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1858228040, guid: 0392ffa6353ffc1214a0df459d9bb3da, type: 3}
+  m_Name: BoxHawk
+  m_EditorClassIdentifier: 
+  label: Box Hawk
+  id: antlershed.boxhawk
+  icon: {fileID: 2800000, guid: d24c32ea4115d1d4dba44ec47742f4c6, type: 3}
+  muteEffects: 1
+  muteVoice: 1
+  bodyMeshAction:
+    actionType: 2
+    replacementObject: {fileID: 919132149155446097, guid: cda11a87a36f21e4bb383e09b0080d07,
+      type: 3}
+    armatureMap: {fileID: 11400000, guid: fe13fe6b55ce9ea44ae6bd7617604ed5, type: 2}
+  bodyMaterialAction:
+    actionType: 0
+    replacementMaterial: {fileID: 0}
+  screamAudioListAction:
+    actionType: 0
+    replacementClips: []
+  laughAudioListAction:
+    actionType: 0
+    replacementClips: []
+  attachments: []

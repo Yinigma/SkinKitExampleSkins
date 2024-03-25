@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1821139714, guid: 0392ffa6353ffc1214a0df459d9bb3da, type: 3}
+  m_Name: CheckerBug
+  m_EditorClassIdentifier: 
+  label: Checker Bug
+  id: antlershed.checkerbug
+  icon: {fileID: 2800000, guid: d24c32ea4115d1d4dba44ec47742f4c6, type: 3}
+  muteEffects: 0
+  muteVoice: 0
+  bodyMaterialAction:
+    actionType: 1
+    replacementMaterial: {fileID: 2100000, guid: 3da0d975172f8eb41afb0b040d44aff9,
+      type: 2}
+  leftWingMaterialAction:
+    actionType: 1
+    replacementMaterial: {fileID: 2100000, guid: 5c50d97282ba87f4888dbae9a8a231b8,
+      type: 2}
+  rightWingMaterialAction:
+    actionType: 1
+    replacementMaterial: {fileID: 2100000, guid: 5c50d97282ba87f4888dbae9a8a231b8,
+      type: 2}
+  bodyMeshAction:
+    actionType: 0
+    replacementObject: {fileID: 0}
+    armatureMap: {fileID: 0}
+  leftWingMeshAction:
+    actionType: 0
+    replacementMesh: {fileID: 0}
+  rightWingMeshAction:
+    actionType: 0
+    replacementMesh: {fileID: 0}
+  chitterAudioListAction:
+    actionType: 2
+    replacementClips:
+    - {fileID: 8300000, guid: f1305a3fb5df2e1418c2112254fb3869, type: 3}
+    - {fileID: 8300000, guid: 34cd2d8c2d231784e83476c56f0e0ff1, type: 3}
+    - {fileID: 8300000, guid: dd02766af89163c43996b795ff3ac2b7, type: 3}
+    - {fileID: 8300000, guid: 999a11e5611ec5d4da963a3b7c60590f, type: 3}
+  angryChirpsAudioListAction:
+    actionType: 2
+    replacementClips:
+    - {fileID: 8300000, guid: 9c08592858bb70d47b3b58e7b03877d3, type: 3}
+    - {fileID: 8300000, guid: 27f35a3817e462444b792c6c9d35e8ef, type: 3}
+    - {fileID: 8300000, guid: 24c268cca72355746962a35912c2b871, type: 3}
+  beginAttackAudioAction:
+    actionType: 2
+    replacementClip: {fileID: 8300000, guid: d4b0da54c9ab731499030fd5a9084df8, type: 3}
+  flyAudioAction:
+    actionType: 2
+    replacementClip: {fileID: 8300000, guid: 33b4fae0cf184464ebf3f31788ec59a8, type: 3}
+  hitPlayerAudioAction:
+    actionType: 2
+    replacementClip: {fileID: 8300000, guid: a885f0b74c519964b99209ba25290c67, type: 3}
+  attachments: []

@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -930271490, guid: 0392ffa6353ffc1214a0df459d9bb3da, type: 3}
+  m_Name: CoilheadMaterialTest
+  m_EditorClassIdentifier: 
+  label: Checker Coilhead
+  id: antlershed.checkerhead
+  icon: {fileID: 2800000, guid: d24c32ea4115d1d4dba44ec47742f4c6, type: 3}
+  muteEffects: 0
+  muteVoice: 0
+  bodyMeshAction:
+    actionType: 0
+    replacementObject: {fileID: 0}
+    armatureMap: {fileID: 0}
+  headMeshAction:
+    actionType: 2
+    replacementMesh: {fileID: 2772630391296896646, guid: fb3a147ee515e9e49956a045e65e4ad5,
+      type: 3}
+  bodyMaterialAction:
+    actionType: 1
+    replacementMaterial: {fileID: 2100000, guid: 3da0d975172f8eb41afb0b040d44aff9,
+      type: 2}
+  rustMaterialAction:
+    actionType: 1
+    replacementMaterial: {fileID: 2100000, guid: 5c50d97282ba87f4888dbae9a8a231b8,
+      type: 2}
+  headMaterialAction:
+    actionType: 0
+    replacementMaterial: {fileID: 0}
+  springNoisesAudioListAction:
+    actionType: 2
+    replacementClips:
+    - {fileID: 8300000, guid: 9c08592858bb70d47b3b58e7b03877d3, type: 3}
+  attachments: []

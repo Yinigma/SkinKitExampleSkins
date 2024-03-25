@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1979917740, guid: 0392ffa6353ffc1214a0df459d9bb3da, type: 3}
+  m_Name: BoxDogSkin
+  m_EditorClassIdentifier: 
+  label: Box Dog
+  id: antlershed.boxdog
+  icon: {fileID: 2800000, guid: d24c32ea4115d1d4dba44ec47742f4c6, type: 3}
+  muteEffects: 1
+  muteVoice: 1
+  bodyMeshAction:
+    actionType: 2
+    replacementObject: {fileID: 919132149155446097, guid: 4e4cdae627080a644905427d8e39e14d,
+      type: 3}
+    armatureMap: {fileID: 11400000, guid: 3202a96382504b2418108881073c787e, type: 2}
+  topTeethMeshAction:
+    actionType: 1
+    replacementMesh: {fileID: 0}
+  bottomTeethMeshAction:
+    actionType: 1
+    replacementMesh: {fileID: 0}
+  bodyMaterialAction:
+    actionType: 0
+    replacementMaterial: {fileID: 0}
+  topTeethMaterialAction:
+    actionType: 0
+    replacementMaterial: {fileID: 0}
+  bottomTeethMaterialAction:
+    actionType: 0
+    replacementMaterial: {fileID: 0}
+  screamAudioAction:
+    actionType: 1
+    replacementClip: {fileID: 0}
+  killPlayerAudioAction:
+    actionType: 1
+    replacementClip: {fileID: 0}
+  breathingAudioAction:
+    actionType: 1
+    replacementClip: {fileID: 0}
+  attachments: []

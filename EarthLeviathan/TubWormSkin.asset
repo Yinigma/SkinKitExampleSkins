@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 963672346, guid: 0392ffa6353ffc1214a0df459d9bb3da, type: 3}
+  m_Name: TubWormSkin
+  m_EditorClassIdentifier: 
+  label: Silent Tube Worm
+  id: antlershed.tubeworm
+  icon: {fileID: 2800000, guid: d24c32ea4115d1d4dba44ec47742f4c6, type: 3}
+  muteEffects: 1
+  muteVoice: 1
+  bodyMeshAction:
+    actionType: 2
+    replacementObject: {fileID: 919132149155446097, guid: 49aaa7149cd432e4488a647201c667a9,
+      type: 3}
+    armatureMap: {fileID: 11400000, guid: 135abda1a44df2e428e8b4fa5d2ee2bf, type: 2}
+  bodyMaterialAction:
+    actionType: 0
+    replacementMaterial: {fileID: 0}
+  groundRumbleAudioListAction:
+    actionType: 1
+    replacementClips: []
+  ambientRumbleAudioListAction:
+    actionType: 1
+    replacementClips: []
+  roarAudioListAction:
+    actionType: 1
+    replacementClips: []
+  hitGroundAudioAction:
+    actionType: 1
+    replacementClip: {fileID: 0}
+  emergeAudioAction:
+    actionType: 1
+    replacementClip: {fileID: 0}
+  attachments: []

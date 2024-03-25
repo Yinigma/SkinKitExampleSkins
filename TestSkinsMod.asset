@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1662230463, guid: 0392ffa6353ffc1214a0df459d9bb3da, type: 3}
+  m_Name: TestSkinsMod
+  m_EditorClassIdentifier: 
+  modName: AntlerShedTestSkins
+  author: AntlerShed
+  modGUID: antlershed.lethalcompany.testskinpack
+  readMe: {fileID: 0}
+  icon: {fileID: 2800000, guid: d24c32ea4115d1d4dba44ec47742f4c6, type: 3}
+  major: 1
+  minor: 0
+  patch: 0
+  description: Collection of really annoying test skins
+  skins:
+  - {fileID: 11400000, guid: d34c620f303861a4095c07d3146da97f, type: 2}
+  - {fileID: 11400000, guid: c5f6400e546561b46ab5b1f979e7e260, type: 2}
+  - {fileID: 11400000, guid: f8937206b95351749bb1e66049aae9c8, type: 2}
+  - {fileID: 11400000, guid: d938cbf93949d83409ca6bb423a806eb, type: 2}
+  - {fileID: 11400000, guid: 8db506354d34cc94387257c38e8b101a, type: 2}
+  - {fileID: 11400000, guid: ae63d9d54e0aec541a69d6313b892908, type: 2}
+  - {fileID: 11400000, guid: 7598db2e5d285294c83e304db674c5de, type: 2}
+  - {fileID: 11400000, guid: 44b6a2f2935deed4e9ae46b2c5ba3306, type: 2}
+  - {fileID: 11400000, guid: ff243052575a1814c8ed4be281bfffa6, type: 2}
+  - {fileID: 11400000, guid: 341c790617eff0145b904e92f1451f5a, type: 2}
+  - {fileID: 11400000, guid: 8baa537f3e8d55a4d988f096483a3321, type: 2}
+  - {fileID: 11400000, guid: 0641f541ef20a784aa185706c596ce1c, type: 2}
+  - {fileID: 11400000, guid: 1bddfb8a30ad45943a5e1517d49ad93c, type: 2}
+  - {fileID: 11400000, guid: 0c657fb0a2923654787d731702d6f2af, type: 2}
+  - {fileID: 11400000, guid: 556355a49e729db489310d4d4de8c2ea, type: 2}
+  - {fileID: 11400000, guid: 646b5fcfc39b4884f9a7b5d0d01355b2, type: 2}
+  - {fileID: 11400000, guid: dda80680f1bae7e4c97999d24ed5d498, type: 2}
+  - {fileID: 11400000, guid: b6ad7484d2317034797221f40b31192e, type: 2}
+  - {fileID: 11400000, guid: b9b72745737839440bb2fe0a7d860aa6, type: 2}
+  - {fileID: 11400000, guid: 84729561d80bc864993c25f79f0e7552, type: 2}
+  - {fileID: 11400000, guid: 4bf8f8b1201818f409003de444465f56, type: 2}
+  - {fileID: 11400000, guid: a155402d55d640547ba0b43cdac23a26, type: 2}
+  - {fileID: 11400000, guid: f96efb31d909af54ca063bfee840a6ac, type: 2}
+  - {fileID: 11400000, guid: 1356d01217b9a3f449ebbda13de7c487, type: 2}
+  - {fileID: 11400000, guid: e87ab06f2e574134f8f44b9bd2870f70, type: 2}
+  - {fileID: 11400000, guid: 7fac08395a2128244bbe3a1e90bd7e24, type: 2}
+  - {fileID: 11400000, guid: 86c6eefaec0fc9c40b2f31d428d37325, type: 2}
+  - {fileID: 11400000, guid: de74525da856d814facb2d988a16f7a4, type: 2}
+  - {fileID: 11400000, guid: ce03328abc48d374bb7bb3f7c80c1d4c, type: 2}
+  - {fileID: 11400000, guid: a6c915358ce52574dae559ce43c777cc, type: 2}

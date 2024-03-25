@@ -1,0 +1,18 @@
+{
+  "name": "com.antler-shed.test-skins",
+  "version": "0.0.1",
+  "displayName": "Example Skin Package",
+  "description": "A companion package to a Lethal Company mod, Enemy Skin Kit, with example skins. This package depends on those mod packages being installed in the editor, either via Thunderstore or by using the mod files as a local package installed through the package manager",
+  "unity": "2022.3",
+  "unityRelease": "9f1",
+  "license": "MIT",
+  "author": {
+    "name": "Yinigma",
+    "url": "https://twitter.com/Yinigma13"
+  },
+  "keywords": [
+	"Lethal Company", "Enemy", "Skin," "Kit"
+  ],
+  "type": "tool",
+  "hideInEditor": false,
+}

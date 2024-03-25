@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1790050701, guid: 0392ffa6353ffc1214a0df459d9bb3da, type: 3}
+  m_Name: Checker Cracker
+  m_EditorClassIdentifier: 
+  label: Checker Cracker
+  id: antlershed.checkercracker
+  icon: {fileID: 2800000, guid: d24c32ea4115d1d4dba44ec47742f4c6, type: 3}
+  muteEffects: 0
+  muteVoice: 0
+  bodyMeshAction:
+    actionType: 0
+    replacementObject: {fileID: 0}
+    armatureMap: {fileID: 0}
+  bodyMaterialAction:
+    actionType: 1
+    replacementMaterial: {fileID: 2100000, guid: 3da0d975172f8eb41afb0b040d44aff9,
+      type: 2}
+  torsoTurningAudioListAction:
+    actionType: 2
+    replacementClips:
+    - {fileID: 8300000, guid: 999a11e5611ec5d4da963a3b7c60590f, type: 3}
+    - {fileID: 8300000, guid: 0a3a0060966f2e543bd554ffe201dedb, type: 3}
+    - {fileID: 8300000, guid: dd02766af89163c43996b795ff3ac2b7, type: 3}
+    - {fileID: 8300000, guid: 3516d84aaceb3af439b8f60aa2947a31, type: 3}
+  aimAudioAction:
+    actionType: 2
+    replacementClip: {fileID: 8300000, guid: a885f0b74c519964b99209ba25290c67, type: 3}
+  kickAudioAction:
+    actionType: 2
+    replacementClip: {fileID: 8300000, guid: d4b0da54c9ab731499030fd5a9084df8, type: 3}
+  attachments: []

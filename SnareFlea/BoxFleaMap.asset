@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 365654418, guid: 0392ffa6353ffc1214a0df459d9bb3da, type: 3}
+  m_Name: BoxFleaMap
+  m_EditorClassIdentifier: 
+  tfMap: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f00000020000000210000002200000023000000240000002500000026000000
+  sourceBones:
+  - Head
+  - AntennaLeft
+  - AntennaLeft.001
+  - AntennaLeft.002
+  - AntennaLeft.003
+  - AntennaLeft.004
+  - AntennaRight
+  - AntennaRight.001
+  - AntennaRight.002
+  - AntennaRight.003
+  - AntennaRight.004
+  - Body
+  - Body.001
+  - Body.002
+  - Body.003
+  - LegLeftD
+  - LegLeftD.001
+  - LegLeftE
+  - LegLeftE.001
+  - LegRightD
+  - LegRightD.001
+  - LegRightE
+  - LegRightE.001
+  - LegLeftB
+  - LegLeftB.001
+  - LegLeftC
+  - LegLeftC.001
+  - LegRightB
+  - LegRightB.001
+  - LegRightC
+  - LegRightC.001
+  - LegLeftA
+  - LegLeftA.001
+  - LegRightA
+  - LegRightA.001
+  - MandibleLeft
+  - MandibleRight
+  - PincerLeft
+  - PincerLeft.001
+  destBones:
+  - Head
+  - AntennaLeft
+  - AntennaLeft.001
+  - AntennaLeft.002
+  - AntennaLeft.003
+  - AntennaLeft.004
+  - AntennaRight
+  - AntennaRight.001
+  - AntennaRight.002
+  - AntennaRight.003
+  - AntennaRight.004
+  - Body
+  - Body.001
+  - Body.002
+  - Body.003
+  - LegLeftD
+  - LegLeftD.001
+  - LegLeftE
+  - LegLeftE.001
+  - LegRightD
+  - LegRightD.001
+  - LegRightE
+  - LegRightE.001
+  - LegLeftB
+  - LegLeftB.001
+  - LegLeftC
+  - LegLeftC.001
+  - LegRightB
+  - LegRightB.001
+  - LegRightC
+  - LegRightC.001
+  - LegLeftA
+  - LegLeftA.001
+  - LegRightA
+  - LegRightA.001
+  - MandibleLeft
+  - MandibleRight
+  - PincerLeft
+  - PincerLeft.001

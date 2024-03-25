@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 365654418, guid: 0392ffa6353ffc1214a0df459d9bb3da, type: 3}
+  m_Name: BoxThumperMap
+  m_EditorClassIdentifier: 
+  tfMap: 0000000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f00000010000000110000001200000013000000140000001500000016000000170000001800000001000000020000000300000004000000
+  sourceBones:
+  - spine
+  - spine.003
+  - shoulder.L
+  - upper_arm.L
+  - forearm.L
+  - hand.L
+  - shoulder.R
+  - upper_arm.R
+  - forearm.R
+  - hand.R
+  - spine.004
+  - HeadMouthCenter1
+  - HeadMouthCenter2
+  - HeadMouthLeft1
+  - HeadMouthLeft2
+  - HeadMouthRight1
+  - HeadMouthRight2
+  - LowerJaw
+  - spine.005
+  - spine.006
+  - UpperJaw
+  - Tentacles
+  - tent1
+  - tent2
+  - tent3
+  destBones:
+  - spine
+  - Tentacles
+  - tent1
+  - tent2
+  - tent3
+  - spine.003
+  - shoulder.L
+  - upper_arm.L
+  - forearm.L
+  - hand.L
+  - shoulder.R
+  - upper_arm.R
+  - forearm.R
+  - hand.R
+  - spine.004
+  - HeadMouthCenter1
+  - HeadMouthCenter2
+  - HeadMouthLeft1
+  - HeadMouthLeft2
+  - HeadMouthRight1
+  - HeadMouthRight2
+  - LowerJaw
+  - spine.005
+  - spine.006
+  - UpperJaw
